@@ -1,0 +1,45 @@
+{
+  "title": "Let Me Search That For You",
+  "subtitle": "Página de navegación del buscador para los inutiles",
+  "engines": [
+    {
+      "id": "bing",
+      "name": "Bing",
+      "description": "El motor de búsqueda inteligente de Microsoft ofrece una experiencia de búsqueda integral.",
+      "url": "bing/",
+      "icon": "https://www.bing.com/favicon.ico",
+      "recommended": true
+    },
+    {
+      "id": "baidu",
+      "name": "BaiDu",
+      "description": "La búsqueda en chino es la opción preferida y ofrece servicios de búsqueda localizados.",
+      "url": "baidu/",
+      "icon": "https://www.baidu.com/favicon.ico",
+      "recommended": true
+    },
+    {
+      "id": "google",
+      "name": "Google",
+      "description": "El motor de búsqueda más grande del mundo proporciona resultados de búsqueda precisos.",
+      "url": "google/",
+      "icon": "https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=64&url=https://www.google.com",
+      "recommended": true
+    }
+  ],
+  "footer": {
+    "copyright": "© Let Me Search For You | Dejame buscarte. Reservados todos los derechos.",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/FrecklyComb1728/Let-Me-Search-For-You",
+        "icon": "https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=64&url=https://github.com"
+      },
+      {
+        "name": "粤ICP备2024256994号-2",
+        "url": "https://beian.miit.gov.cn/",
+        "icon": ""
+      }
+    ]
+  }
+}
